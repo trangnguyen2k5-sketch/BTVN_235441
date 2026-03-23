@@ -1,0 +1,4 @@
+
+Hello Server, 
+tôi là Client, tên tôi là Trang
+MSSV 20235441.
