@@ -1,0 +1,8 @@
+  PID TTY           TIME CMD
+ 7837 ttys001    0:00.09 /bin/zsh -i
+11235 ttys001    0:00.01 ./telnet_server
+11833 ttys001    0:00.00 ./telnet_server
+11848 ttys001    0:00.01 sh -c ps > out_11833.txt 2>&1
+10792 ttys002    0:00.04 /bin/zsh -i
+11021 ttys003    0:00.05 /bin/zsh -i
+11832 ttys003    0:00.01 telnet 127.0.0.1 8080
