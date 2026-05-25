@@ -1,0 +1,7 @@
+[2026-05-25 22:44:57] [127.0.0.1:61676] [CONNECTED] Client connected to server
+[2026-05-25 22:45:02] [127.0.0.1:61677] [CONNECTED] Client connected to server
+[2026-05-25 22:46:14] [127.0.0.1:61676] [ERROR] Failed Cmd: [gettime]
+[2026-05-25 22:46:28] [127.0.0.1:61676] [ERROR] Failed Cmd: [GET_TIME]
+[2026-05-25 22:47:48] [127.0.0.1:61677] [DISCONNECTED] Client disconnected
+[2026-05-25 22:48:18] [127.0.0.1:61676] [SUCCESS] Cmd: [GET_TIME dd/mm/yyyy] -> Resp: [25/05/2026]
+[2026-05-25 22:48:36] [127.0.0.1:61676] [SUCCESS] Cmd: [GET_TIME mm/dd/yy] -> Resp: [05/25/26]
